@@ -4,5 +4,6 @@ ___________________
 
 **lekcja_10**
 
-1. Simulated docuentation
+1. Simulated documentation
 2. Second step
+3. Maybe third step
